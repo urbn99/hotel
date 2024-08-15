@@ -1,25 +1,25 @@
 {
   "hotels": [
     {
-      "name": "Hotel Paradise",
-      "location": "Warszawa",
-      "stars": 5,
-      "price_per_night": 450,
-      "amenities": ["Wi-Fi", "Spa", "Basen"]
-    },
-    {
-      "name": "Hotel Relax",
-      "location": "Kraków",
-      "stars": 4,
-      "price_per_night": 300,
-      "amenities": ["Wi-Fi", "Parking", "Restauracja"]
-    },
-    {
-      "name": "Hotel Budget",
-      "location": "Gdańsk",
+      "name": "Grand Tatry",
+      "location": "Białka Tatrzańska",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/224283676.jpg?k=84f8646d34bd18764243bf64185563d9a929182d6c4c008b6150aacc03338de6&o=&hp=1",
       "stars": 3,
-      "price_per_night": 150,
-      "amenities": ["Wi-Fi", "Parking"]
+      "review": "9,2 / 300 opinii",
+      "price_per_night": 450,
+      "price_per_pet": 30,
+      "amenities": ["Wi-Fi", "Parking", "Bar"]
+    },
+    {
+      "name": "Grand Tatry",
+      "location": "Białka Tatrzańska",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/224283676.jpg?k=84f8646d34bd18764243bf64185563d9a929182d6c4c008b6150aacc03338de6&o=&hp=1",
+      "stars": 3,
+      "review": "9,2 / 300 opinii",
+      "price_per_night": 450,
+      "price_per_pet": 30,
+      "amenities": ["Wi-Fi", "Parking", "Bar"]
     }
+    
   ]
 }
