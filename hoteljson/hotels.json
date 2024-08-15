@@ -1,0 +1,25 @@
+{
+  "hotels": [
+    {
+      "name": "Hotel Paradise",
+      "location": "Warszawa",
+      "stars": 5,
+      "price_per_night": 450,
+      "amenities": ["Wi-Fi", "Spa", "Basen"]
+    },
+    {
+      "name": "Hotel Relax",
+      "location": "Kraków",
+      "stars": 4,
+      "price_per_night": 300,
+      "amenities": ["Wi-Fi", "Parking", "Restauracja"]
+    },
+    {
+      "name": "Hotel Budget",
+      "location": "Gdańsk",
+      "stars": 3,
+      "price_per_night": 150,
+      "amenities": ["Wi-Fi", "Parking"]
+    }
+  ]
+}
