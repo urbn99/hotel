@@ -8,7 +8,7 @@
       "review": "9,2 / 300 opinii",
       "price_per_night": 450,
       "price_per_pet": 30,
-      "amenities": ["Wi-Fi", "Parking", "Bar"]
+      "link": "https://www.booking.com"
     },
     {
       "name": "Grand Tatry",
@@ -18,7 +18,7 @@
       "review": "9,2 / 300 opinii",
       "price_per_night": 450,
       "price_per_pet": 30,
-      "amenities": ["Wi-Fi", "Parking", "Bar"]
+      "link": "https://www.booking.com"
     }
     
   ]
