@@ -4,22 +4,34 @@
       "name": "Grand Tatry",
       "location": "Białka Tatrzańska",
       "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/224283676.jpg?k=84f8646d34bd18764243bf64185563d9a929182d6c4c008b6150aacc03338de6&o=&hp=1",
-      "stars": 3,
-      "review": "9,2 / 300 opinii",
-      "price_per_night": 450,
-      "price_per_pet": 30,
+      "review": "9,2",
+      "price_per_pet": "40zł dobra do 15kg, 70zł dobra od 15kg",
       "link": "https://www.booking.com"
     },
     {
-      "name": "Grand Tatry",
+      "name": "Aparthotel Tatrzański SPA",
       "location": "Białka Tatrzańska",
-      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/224283676.jpg?k=84f8646d34bd18764243bf64185563d9a929182d6c4c008b6150aacc03338de6&o=&hp=1",
-      "stars": 3,
-      "review": "9,2 / 300 opinii",
-      "price_per_night": 450,
-      "price_per_pet": 30,
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303008727.jpg?k=ef60e853482656e9ca1ff2c43964f1716c4041cd7a32186066cc3ea406fcaa1e&o=&hp=1",
+      "review": "9,4",
+      "price_per_pet": "brak info",
       "link": "https://www.booking.com"
-    }
+    },
+    {
+      "name": "Hotel Bania Thermal & Ski",
+      "location": "Białka Tatrzańska",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269902082.jpg?k=cc17c2e7377fc2744d58e6450e4218905ca6d865518b00dabda3b50bb3799199&o=&hp=1",
+      "review": "9,4",
+      "price_per_pet": "80zł dobra do srpawdzenia",
+      "link": "https://www.booking.com"
+    },
+    {
+      "name": "Dworek Myśliwski Hubert",
+      "location": "Białka Tatrzańska",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/565557706.jpg?k=547ed3c79c24d37b59b1d207ca44a37e75e0563ef717a71e6990538e0a71d28c&o=&hp=1",
+      "review": "9,2",
+      "price_per_pet": "??",
+      "link": "https://www.booking.com"
+    },
     
   ]
 }
