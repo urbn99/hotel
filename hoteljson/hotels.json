@@ -31,6 +31,14 @@
       "review": "9,2",
       "price_per_pet": "??",
       "link": "https://www.booking.com"
+    },
+    {
+      "name": "Aparthotel Góralski Spa 2",
+      "location": "Białka Tatrzańska",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299150038.jpg?k=86c5c4a3e6f3e45b1e6c8a2652f5829d7c4158492b5a252f4e16165340ba47bd&o=&hp=1",
+      "review": "9,4",
+      "price_per_pet": "50zł doba",
+      "link": "https://www.booking.com"
     }
     
   ]
