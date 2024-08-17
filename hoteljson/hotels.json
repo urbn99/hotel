@@ -54,15 +54,31 @@
       "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/585125338.jpg?k=6ef6e254441177d0a46bf5d332b057c552d509263cf10fec8381985d5ad51e0b&o=&hp=1",
       "review": "9,2",
       "price_per_pet": "??",
-      "link": "https://www.booking.com/hotel/pl/zawrat-bialka-tatrzanska.en.html?aid=7947109&no_rooms=1&group_adults=2"
+      "link": "https://www.booking.com/hotel/pl/zawrat-bialka-tatrzanska.pl.html?aid=7947109&no_rooms=1&group_adults=2"
     },
     {
-      "name": "test",
+      "name": "Hotel Tatra",
       "location": "Zakopane",
-      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/585125338.jpg?k=6ef6e254441177d0a46bf5d332b057c552d509263cf10fec8381985d5ad51e0b&o=&hp=1",
-      "review": "9,2",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30731862.jpg?k=bf62649dadf017e42754a35b7ced8fb9f82ccd3ed473fbb30cd550e353a2218f&o=&hp=1",
+      "review": "8,8",
       "price_per_pet": "??",
-      "link": "https://www.booking.com/hotel/pl/zawrat-bialka-tatrzanska.en.html?aid=7947109&no_rooms=1&group_adults=2"
+      "link": "https://www.booking.com/hotel/pl/hotel-tatra-zakopane.pl.html?aid=7947109&no_rooms=1&group_adults=2"
+    },
+    {
+      "name": "Villa Vita Krupówki",
+      "location": "Zakopane",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/113659659.jpg?k=7a37358ae75880fc27f9501c7000ecc6bc48f01eb9fdc24abcd8f842f774fedf&o=&hp=1",
+      "review": "9,0",
+      "price_per_pet": "??",
+      "link": "https://www.booking.com/hotel/pl/villa-vita-krupowki-2.pl.html?aid=7947109&no_rooms=1&group_adults=2"
+    },
+    {
+      "name": "Aparthotel Prestige",
+      "location": "Zakopane",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471366368.jpg?k=9820b6fe347f317aa5849bee6a8c689485f7d2376cd59157c4ed1d328cb770a7&o=&hp=1",
+      "review": "9,0",
+      "price_per_pet": "??",
+      "link": "https://www.booking.com/hotel/pl/aparthotel-prestige.pl.html?aid=7947109&no_rooms=1&group_adults=2"
     }
     
   ]
