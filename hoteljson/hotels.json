@@ -55,6 +55,14 @@
       "review": "9,2",
       "price_per_pet": "??",
       "link": "https://www.booking.com/hotel/pl/zawrat-bialka-tatrzanska.en.html?aid=7947109&no_rooms=1&group_adults=2"
+    },
+    {
+      "name": "test",
+      "location": "Zakopane",
+      "photo_URL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/585125338.jpg?k=6ef6e254441177d0a46bf5d332b057c552d509263cf10fec8381985d5ad51e0b&o=&hp=1",
+      "review": "9,2",
+      "price_per_pet": "??",
+      "link": "https://www.booking.com/hotel/pl/zawrat-bialka-tatrzanska.en.html?aid=7947109&no_rooms=1&group_adults=2"
     }
     
   ]
